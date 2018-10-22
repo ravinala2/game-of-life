@@ -3,7 +3,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 ## webhook auto commit testint 7:40 PM final push to master.
 =======
 ## webhook autoupdate testing
->>>>>>> 77a36c98493b5f49bad2710a174365fa81887552
+> 77a36c98493b5f49bad2710a174365fa81887552
 ## Building the project
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
