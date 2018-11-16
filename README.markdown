@@ -1,6 +1,10 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## webhook auto commit testing 19:52 PM final push to master.
+=======
+## webhook auto commit testing 10:12 PM final push to master.
+>>>>>>> baf5ded8349874d16b57089986f2de0df902b40f
 =======
 ## webhook autoupdate testing
 > 77a36c98493b5f49bad2710a174365fa81887552
